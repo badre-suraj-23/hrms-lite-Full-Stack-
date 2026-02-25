@@ -14,8 +14,8 @@ This project demonstrates end-to-end full-stack development including frontend, 
 
 ## 🚀 Live Demo
 
-- **Frontend URL:** 
-- **Backend API URL:** 
+- **Frontend URL:**  https://hrms-lite-full-stack-eta.vercel.app/
+- **Backend API URL:** https://hrms-lite-full-stack.onrender.com
 ---
 
 ## 🛠 Tech Stack
